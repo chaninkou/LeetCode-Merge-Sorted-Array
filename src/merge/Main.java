@@ -19,5 +19,7 @@ public class Main {
 		MergeSortedArrayFunction solution = new MergeSortedArrayFunction();
 		
 		solution.merge(nums1, m, nums2, n);
+		
+		System.out.println("Solution: " + Arrays.toString(nums1));
 	}
 }
