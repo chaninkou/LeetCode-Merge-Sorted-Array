@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Main {
 	public static void main(String[] args) {
-		int[] nums1 = {1,2,3,0,0,0};
+		int[] nums1 = {7,8,9,0,0,0};
 		
 		int m = 3;
 		
