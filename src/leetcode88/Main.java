@@ -1,4 +1,4 @@
-package merge;
+package leetcode88;
 
 import java.util.Arrays;
 
